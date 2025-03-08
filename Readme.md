@@ -93,7 +93,7 @@ CLOUDINARY_API_KEY=<your-api-key>  # API Key from your Cloudinary account
 CLOUDINARY_API_SECRET=<your-api-secret>  # API Secret from your Cloudinary account
 ```
 
-##Start the Server
+## Start the Server
 
 ```
 npm run dev
